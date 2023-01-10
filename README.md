@@ -110,5 +110,6 @@ Execute the program
 ```
 
 # OUPUT
-![Screenshot_20230110_034823](https://user-images.githubusercontent.com/118541861/211524720-ecdc49fb-de3a-4e91-bdf0-77c3bdb2d299.png)
+
+![Screenshot_20230110_042519](https://user-images.githubusercontent.com/118541861/211533334-06bd5357-5ced-43cd-b2a1-6381b0ff4c3c.png)
 
